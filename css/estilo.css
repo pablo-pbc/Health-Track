@@ -485,28 +485,28 @@ body {
 }
 
 .bg-card1 {
-  background: url(../imagens/cafe.png);
+  background: url(../Imagens/cafe.png);
   background-repeat: none;
   background-size: cover;
   border-radius: 10px;
 }
 
 .bg-card2 {
-  background: url(../imagens/janta.png);
+  background: url(../Imagens/janta.png);
   background-repeat: none;
   background-size: cover;
   border-radius: 10px;
 }
 
 .bg-card3 {
-  background: url(../imagens/almoco.png);
+  background: url(../Imagens/almoco.png);
   background-repeat: none;
   background-size: cover;
   border-radius: 10px;
 }
 
 .bg-card4 {
-  background: url(../imagens/escapada.png);
+  background: url(../Imagens/escapada.png);
   background-repeat: none;
   background-size: cover;
   border-radius: 10px;
@@ -1254,7 +1254,7 @@ body {
   }
 
   .bg-card1 {
-    background: url(../imagens/cafe.png);
+    background: url(../Imagens/cafe.png);
     background-repeat: none;
     background-size: cover;
     border-radius: 10px;
@@ -1262,7 +1262,7 @@ body {
   }
 
   .bg-card2 {
-    background: url(../imagens/janta.png);
+    background: url(../Imagens/janta.png);
     background-repeat: none;
     background-size: cover;
     border-radius: 10px;
@@ -1270,7 +1270,7 @@ body {
   }
   
   .bg-card3 {
-    background: url(../imagens/almoco.png);
+    background: url(../Imagens/almoco.png);
     background-repeat: none;
     background-size: cover;
     border-radius: 10px;
@@ -1278,7 +1278,7 @@ body {
   }
   
   .bg-card4 {
-    background: url(../imagens/escapada.png);
+    background: url(../Imagens/escapada.png);
     background-repeat: none;
     background-size: cover;
     border-radius: 10px;
@@ -1538,7 +1538,7 @@ body {
   }
 
   .bg-card1 {
-    background: url(../imagens/cafe.png);
+    background: url(../Imagens/cafe.png);
     background-repeat: none;
     background-size: cover;
     border-radius: 10px;
@@ -1546,7 +1546,7 @@ body {
   }
 
   .bg-card2 {
-    background: url(../imagens/janta.png);
+    background: url(../Imagens/janta.png);
     background-repeat: none;
     background-size: cover;
     border-radius: 10px;
@@ -1554,7 +1554,7 @@ body {
   }
   
   .bg-card3 {
-    background: url(../imagens/almoco.png);
+    background: url(../Imagens/almoco.png);
     background-repeat: none;
     background-size: cover;
     border-radius: 10px;
@@ -1562,7 +1562,7 @@ body {
   }
   
   .bg-card4 {
-    background: url(../imagens/escapada.png);
+    background: url(../Imagens/escapada.png);
     background-repeat: none;
     background-size: cover;
     border-radius: 10px;
@@ -2054,7 +2054,7 @@ body {
 
 /*INICIO ESTILIZAÇÃO DOS ID'S*/
 #home-1 {
-  background: url(../imagens/fundosection1.png);
+  background: url(../Imagens/fundosection1.png);
   background-repeat: no-repeat;
   background-size: cover;
   margin-bottom: 30px;
